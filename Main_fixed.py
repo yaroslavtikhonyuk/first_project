@@ -34,7 +34,7 @@ class DiskConfig:
     q_T:      float = 0.5
 
     # Пыль
-    Sigma_d0: float = 170.0  # г/см²
+    Sigma_d0: float = 17.0  # г/см²
     rho_s:    float = 1.6    # г/см³
     a_grain:  float = 0.1    # см (1 мм)
 
